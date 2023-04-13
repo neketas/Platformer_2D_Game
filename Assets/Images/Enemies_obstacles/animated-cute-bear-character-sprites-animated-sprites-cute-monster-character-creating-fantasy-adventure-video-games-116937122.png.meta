@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: ef47a86f79ed448a38ee80335335656d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3387918706006125054
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_0
+  - first:
+      213: 8187947796292193942
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_1
+  - first:
+      213: 2468149955311928804
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_2
+  - first:
+      213: 8267225137108641561
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_3
+  - first:
+      213: 7214888678541227673
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_4
+  - first:
+      213: 2668852279324822907
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_5
+  - first:
+      213: 1882466150026888596
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_6
+  - first:
+      213: -553901709242927978
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_7
+  - first:
+      213: 1795132307007419027
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_8
+  - first:
+      213: 280460974003153226
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_9
+  - first:
+      213: -8892620783559503804
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_10
+  - first:
+      213: -6415721527324645804
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_11
+  - first:
+      213: -6655849026999368574
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_12
+  - first:
+      213: 6198774910981764236
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_13
+  - first:
+      213: 7166819457321414049
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_14
+  - first:
+      213: 8661892130077089354
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_15
+  - first:
+      213: 8229227601449947693
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_16
+  - first:
+      213: 7659563888036193692
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_17
+  - first:
+      213: 3557515556907934989
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_18
+  - first:
+      213: 1606032539619620567
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_19
+  - first:
+      213: -2838355039540405433
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_20
+  - first:
+      213: -5847711237546491873
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_21
+  - first:
+      213: -6649218676459127229
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_22
+  - first:
+      213: 8692395674290566954
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_23
+  - first:
+      213: 5354227777907456216
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_24
+  - first:
+      213: -3661631759117563603
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_25
+  - first:
+      213: 3525929151389111133
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_26
+  - first:
+      213: -8705224403584159590
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_27
+  - first:
+      213: -2012004898751894727
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_28
+  - first:
+      213: 6541951288868021796
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_29
+  - first:
+      213: -2526116737500762895
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_30
+  - first:
+      213: 4774309082416934719
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_31
+  - first:
+      213: 988228634040809598
+    second: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 488
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef96567fc1e440f20800000000000000
+      internalID: 3387918706006125054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 488
+        width: 99
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e407d932f61a170800000000000000
+      internalID: 8187947796292193942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 488
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e583cabe41a04220800000000000000
+      internalID: 2468149955311928804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 488
+        width: 98
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9176a87e5751bb270800000000000000
+      internalID: 8267225137108641561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 488
+        width: 98
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ff6ae60f602460800000000000000
+      internalID: 7214888678541227673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_5
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 488
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dc523020ba90520800000000000000
+      internalID: 2668852279324822907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_6
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 180
+        width: 440
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495cc0e5dfcdf1a10800000000000000
+      internalID: 1882466150026888596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 329
+        width: 89
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694f71484552058f0800000000000000
+      internalID: -553901709242927978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 329
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392310c725799e810800000000000000
+      internalID: 1795132307007419027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 329
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4961d815c564e300800000000000000
+      internalID: 280460974003153226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_10
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 329
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4401ea13380179480800000000000000
+      internalID: -8892620783559503804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_11
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 329
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456ecf94347c6f6a0800000000000000
+      internalID: -6415721527324645804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_12
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 328
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284c21bf29ca1a3a0800000000000000
+      internalID: -6655849026999368574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_13
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 328
+        width: 170
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84fba360f8760650800000000000000
+      internalID: 6198774910981764236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 177
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad20033358a57360800000000000000
+      internalID: 7166819457321414049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 176
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e1ff7eff8353870800000000000000
+      internalID: 8661892130077089354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 176
+        width: 115
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22934837e6143270800000000000000
+      internalID: 8229227601449947693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 177
+        width: 119
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95aec826cc3c4a60800000000000000
+      internalID: 7659563888036193692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_18
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 176
+        width: 119
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d056c6cec85de5130800000000000000
+      internalID: 3557515556907934989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_19
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 176
+        width: 118
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6febde516c94610800000000000000
+      internalID: 1606032539619620567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b11c931232c98d0800000000000000
+      internalID: -2838355039540405433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 18
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f104bf8ac91c8dea0800000000000000
+      internalID: -5847711237546491873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 19
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eb2c3c7da39b3a0800000000000000
+      internalID: -6649218676459127229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 19
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a273b3dbfc791a870800000000000000
+      internalID: 8692395674290566954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_24
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 19
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8f3bccbc90e4a40800000000000000
+      internalID: 5354227777907456216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_25
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 19
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d294283b0554f2dc0800000000000000
+      internalID: -3661631759117563603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_26
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 20
+        width: 102
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d531ebbc1ed9ee030800000000000000
+      internalID: 3525929151389111133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_27
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 19
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90fd46f684d03780800000000000000
+      internalID: -8705224403584159590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_28
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 19
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b2c83643ce314e0800000000000000
+      internalID: -2012004898751894727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_29
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 19
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42623e6590ea9ca50800000000000000
+      internalID: 6541951288868021796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_30
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 19
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc2910163e61fcd0800000000000000
+      internalID: -2526116737500762895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_31
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 19
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe169a0d0c14240800000000000000
+      internalID: 4774309082416934719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-cute-bear-character-sprites-animated-sprites-cute-monster-character-creating-fantasy-adventure-video-games-116937122_32
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 19
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e783fd0f4b4e6bd00800000000000000
+      internalID: 988228634040809598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
